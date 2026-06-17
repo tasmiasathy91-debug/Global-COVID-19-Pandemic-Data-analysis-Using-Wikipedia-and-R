@@ -11,6 +11,9 @@ By leveraging HTTP requests, HTML parsing, and data preprocessing methods, valua
 
 The analysis highlightes the importance of testing data in understanding pandemic trends and demonstrates practical skills in web scraping, data cleaning, exploratory data analysis, and statistical interpretation.
 
+# COVID-19 pandemic Wiki page URL:
+https://en.wikipedia.org/w/index.php?title=Template:COVID-19_testing_by_country using a web browser.
+
 # Tools and Technologies
 
 <img width="860" height="826" alt="image" src="https://github.com/user-attachments/assets/67b99e95-9523-4e19-ad5e-4b29a4afb393" />
