@@ -34,5 +34,5 @@ The project demonstrates:
 - Data extraction
 - Data cleaning
 - Data transformation
-- Exploratory analysis
+
 
