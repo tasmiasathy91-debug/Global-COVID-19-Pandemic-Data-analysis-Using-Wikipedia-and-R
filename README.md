@@ -25,3 +25,14 @@ The analysis highlightes the importance of testing data in understanding pandemi
 - Identify countries with lower infection ratios.
 - Demonstrate practical web scraping and data analytics skills using R.
 
+# End-to-End Data Analytics Workflow
+
+The project demonstrates:
+
+- Web scraping
+- HTTP requests
+- Data extraction
+- Data cleaning
+- Data transformation
+- Exploratory analysis
+
