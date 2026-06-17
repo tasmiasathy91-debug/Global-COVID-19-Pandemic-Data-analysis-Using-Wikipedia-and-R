@@ -15,3 +15,13 @@ The analysis highlightes the importance of testing data in understanding pandemi
 
 <img width="860" height="826" alt="image" src="https://github.com/user-attachments/assets/67b99e95-9523-4e19-ad5e-4b29a4afb393" />
 
+# Objectives
+
+- Retrieve COVID-19 testing data from Wikipedia using HTTP requests.
+- Extract structured data from HTML tables.
+- Clean and preprocess the dataset.
+- Calculate worldwide COVID-19 testing statistics.
+- Compare infection prevalence between selected countries.
+- Identify countries with lower infection ratios.
+- Demonstrate practical web scraping and data analytics skills using R.
+
